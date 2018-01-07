@@ -1,8 +1,10 @@
-# webpack_deploy
+# Webpack Deploy
 
-> A Vue.js project
+> A demo project for the Vue CLI Webpack template feature request for easy deploy script in `package.json`
 
 ## Build Setup
+
+> This is exactly the same as a standard Webpack template when installed using Vue CLI, except you now have a deploy command.
 
 ``` bash
 # install dependencies
@@ -16,6 +18,9 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
+# build for production and deploy the build to `gh-pages` branch
+npm run deploy
 
 # run unit tests
 npm run unit
