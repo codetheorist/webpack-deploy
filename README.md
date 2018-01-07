@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-> This is exactly the same as a standard Webpack template when installed using Vue CLI, except you now have a deploy command.
+This is exactly the same as a standard Webpack template when installed using Vue CLI, except you now have a deploy command.
 
 ``` bash
 # install dependencies
